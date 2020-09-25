@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="FtpData" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="FtpData">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="LocalPath" type="xs:string" />
+                <xs:element name="Index" type="xs:int" minOccurs="0" />
+                <xs:element name="Path" type="xs:string" minOccurs="0" />
+                <xs:element name="Size" type="xs:int" minOccurs="0" />
+                <xs:element name="Command" type="xs:string" minOccurs="0" />
+                <xs:element name="Progress" type="xs:int" minOccurs="0" />
+                <xs:element name="Retry" type="xs:int" minOccurs="0" />
+                <xs:element name="Success" type="xs:boolean" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+      <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//FtpData" />
+        <xs:field xpath="LocalPath" />
+      </xs:unique>
+    </xs:element>
+  </xs:schema>
+  <FtpData>
+    <LocalPath>C:\Program Files (x86)\openElement\openElement 1.57 R9\Config\hostGetParam.php</LocalPath>
+    <Index>1</Index>
+    <Path>hostGetParam.php</Path>
+    <Size>0</Size>
+    <Command>Add</Command>
+    <Progress>0</Progress>
+    <Retry>0</Retry>
+    <Success>false</Success>
+  </FtpData>
+</NewDataSet>

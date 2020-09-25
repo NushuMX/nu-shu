@@ -1,0 +1,9 @@
+Initiating connection, please wait...
+FtpIOException : An error occurred while resolving the server hostname to a valid IP address.
+   at Xceed.Ftp.Engine.ConnectFtpCommand.EndExecute(IAsyncResult asyncResult)
+   at Xceed.Ftp.FtpClient.DoExecuteCommand(FtpCommandChannel commandChannel, BaseFtpCommand command)
+   at Xceed.Ftp.FtpClient.Connect(String hostName, Int32 port)
+   at SyncFTP.Main.SendSyncFiles()
+   at SyncFTP.Main.SyncFiles()
+The FTP server address is not valid.
+Please check your settings.

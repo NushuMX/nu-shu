@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://nu-shu.com/</loc>
+    <lastmod>2020-09-24</lastmod>
+  </url>
+  <url oeid="a22c01c7-f741-42a3-8b73-d94dec611af5" oelang="DEFAULT">
+    <loc>https://nu-shu.com/index.htm</loc>
+    <lastmod>2020-09-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://nu-shu.com/index.htm" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://nu-shu.com/index.en-us.htm" />
+  </url>
+  <url oeid="a22c01c7-f741-42a3-8b73-d94dec611af5" oelang="EN-US">
+    <loc>https://nu-shu.com/index.en-us.htm</loc>
+    <lastmod>2020-09-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://nu-shu.com/index.htm" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://nu-shu.com/index.en-us.htm" />
+  </url>
+  <url oeid="bf495c6a-4399-4279-ad58-cc22de77604e" oelang="DEFAULT">
+    <loc>https://nu-shu.com/SAMPLE.htm</loc>
+    <lastmod>2020-09-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://nu-shu.com/SAMPLE.htm" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://nu-shu.com/SAMPLE.en-us.htm" />
+  </url>
+  <url oeid="bf495c6a-4399-4279-ad58-cc22de77604e" oelang="EN-US">
+    <loc>https://nu-shu.com/SAMPLE.en-us.htm</loc>
+    <lastmod>2020-09-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://nu-shu.com/SAMPLE.htm" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://nu-shu.com/SAMPLE.en-us.htm" />
+  </url>
+</urlset>
