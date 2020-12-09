@@ -1,17 +1,41 @@
-<!DOCTYPE HTML>
+<!-- #apicart-cart-dropdown will be replaced by dropdown --->
+<div id="apicart-cart-dropdown"></div>
+
+<!-- 
+  After clicking on any element with the data-apicart-add-item attribute
+  an item with the given url will be added into the cart
+--->
+<button data-apicart-add-item="https://cdn.apicart.dev/external/wlhv1egho2u4p0e0nkne2mks7f9btigi/data/01/1.json">
+  Buy
+</button>
+<!-- #apicart will be replaced by components according to configuration --->
+<div id="apicart"></div>
+<script src="https://cdn.jsdelivr.net/npm/@apicart/vue-components@1.0.0-alpha7/dist/bundles/default/default.full.min.js"></script>
+<script>
+  Apicart
+  .setDevEnv() // Switch to dev environment
+  .configure({
+    store: new Apicart.Store({
+      token: "g2!8KQFqWD9zAVZaZyGzdQMhe?GEhPOhnAbY!sY507ZziV08f9bGxKfx14taz2gt"
+    })
+  })
+  .initVueBundle();
+</script><!DOCTYPE HTML>
 <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-us">
  <head>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
   <meta name="generator" content="openElement (1.57.9)" />
+  <title>Store</title>
   <link id="openElement" rel="stylesheet" type="text/css" href="../WEFiles/Css/v02/openElement.css?v=50491101600" />
   <link id="siteFonts" rel="stylesheet" type="text/css" href="../Files/Fonts/Fonts.css?v=50491101600" />
   <link id="OETemplate1" rel="stylesheet" type="text/css" href="Base_Scripts.css?v=50491101600" />
-  <link id="OEBase" rel="stylesheet" type="text/css" href="Base_MenuRetractable.css?v=50491101600" />
+  <link id="OETemplate2" rel="stylesheet" type="text/css" href="Base_MenuRetractable.css?v=50491101600" />
+  <link id="OEBase" rel="stylesheet" type="text/css" href="Copy-Store.css?v=50491101600" />
   <!--[if lte IE 7]>
   <link rel="stylesheet" type="text/css" href="../WEFiles/Css/ie7.css?v=50491101600" />
   <![endif]-->
   <script type="text/javascript">
-   var WEInfoPage = {"PHPVersion":"phpOK","OEVersion":"1-57-9","PagePath":"Templates/Base_MenuRetractable","Culture":"EN-US","LanguageCode":"EN-US","RelativePath":"../","RenderMode":"Export","PageAssociatePath":"Templates/Base_MenuRetractable","EditorTexts":null};
+   var WEInfoPage = {"PHPVersion":"phpOK","OEVersion":"1-57-9","PagePath":"Templates/Copy-Store","Culture":"EN-US","LanguageCode":"EN-US","RelativePath":"../","RenderMode":"Export","PageAssociatePath":"Templates/Copy-Store","EditorTexts":null};
   </script>
   <script type="text/javascript" src="../WEFiles/Client/jQuery/1.10.2.js?v=50491101600"></script>
   <script type="text/javascript" src="../WEFiles/Client/jQuery/migrate.js?v=50491101600"></script>
@@ -33,7 +57,7 @@
  </head>
  <body class="" data-gl="{&quot;KeywordsHomeNotInherits&quot;:false}">
   <form id="XForm" method="post" action="#"></form>
-  <div id="XBody" class="BaseDiv RBoth OEPageXbody OESK_XBody_Default" style="z-index:1000">
+  <div id="XBody" class="BaseDiv RWidth OEPageXbody OESK_XBody_Default" style="z-index:2000">
    <div class="OESZ OESZ_DivContent OESZG_XBody">
     <div class="OESZ OESZ_XBodyContent OESZG_XBody OECT OECT_Content OECTAbs">
      <div id="WE587e579642" class="BaseDiv RNone OEWELink OESK_WELink_Default OEGo  navigArrow naDown" style="z-index:1003">
@@ -80,7 +104,7 @@
            <div id="WE47666cbd8a" class="BaseDiv RNone OEWEFlag OESK_WEFlag_Default  leftAuto" style="z-index:1001">
             <div class="OESZ OESZ_DivContent OESZG_WE47666cbd8a">
              <div class="OESZ OESZ_Flag OESZG_WE47666cbd8a">
-              <a href="Base_MenuRetractable.htm" rel="alternate" hreflang="ES">
+              <a href="Copy-Store.htm" rel="alternate" hreflang="ES">
                <img style="border:none;vertical-align:bottom" src="../WEFiles/Image/Flag_DEFAULT.png" alt="Spanish" />
               </a>
              </div>
@@ -181,6 +205,13 @@
      <div id="WE068f04de65" class="BaseDiv RWidth OEWELabel OESK_WELabel_Default OECenterAH" style="z-index:1007">
       <div class="OESZ OESZ_DivContent OESZG_WE068f04de65">
        <span class="OESZ OESZ_Text OESZG_WE068f04de65 ContentBox"><span style="font-weight:normal;">To "activate" displaying of an arrow, use its property "Visible"<br /></span></span>
+      </div>
+     </div>
+     <div id="WEffd44916ea" class="BaseDiv RWidth OEWECadre OESK_WECadre_Default OECenterAB" style="z-index:2001">
+      <div class="OESZ OESZ_DivContent OESZG_WEffd44916ea">
+       <div class="OESZ OESZ_Top OESZG_WEffd44916ea"></div>
+       <div class="OESZ OESZ_Content OESZG_WEffd44916ea"></div>
+       <div class="OESZ OESZ_Bottom OESZG_WEffd44916ea"></div>
       </div>
      </div>
     </div>
