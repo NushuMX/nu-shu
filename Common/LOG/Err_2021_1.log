@@ -1,0 +1,388 @@
+1/4/2021 1:23:59 PM | 
+1/4/2021 1:23:59 PM | 
+Message : Unable to cast object of type 'System.IO.MemoryStream' to type 'System.Collections.Generic.List`1[openElement.WebElement.Elements.ElementBase]'.
+1/4/2021 1:23:59 PM | 
+LastTrace : openElement.Forms.FrmPageEdit.ClipboardPaste(Int32 pasteX, Int32 pasteY)
+1/4/2021 1:23:59 PM | 
+Params : 
+1/4/2021 1:23:59 PM | 
+MethodeName : Void ClipboardPaste(Int32, Int32)
+1/4/2021 1:23:59 PM | 
+Stamp : 1/4/2021 1:23:59 PM
+1/4/2021 1:23:59 PM | 
+OSFullName : Microsoft Windows 10 Pro
+1/4/2021 1:23:59 PM | 
+AvailablePhysicalMemory : 26.44 Go 
+1/4/2021 1:23:59 PM | 
+TotalPhysicalMemory : 31.95 Go 
+1/4/2021 1:23:59 PM | 
+AvailableVirtualMemory : 2.99 Go 
+1/4/2021 1:23:59 PM | 
+TotalVirtualMemory : 4 Go 
+1/4/2021 1:23:59 PM | 
+WorkingSet : 378.26 Mo 
+1/4/2021 1:23:59 PM | 
+PagedMemorySize : 298.03 Mo 
+1/4/2021 1:23:59 PM | 
+TotalMemory : 57.26 Mo 
+1/4/2021 1:23:59 PM | 
+
+1/4/2021 1:23:59 PM | 
+ExTrace : 
+1/4/2021 1:23:59 PM | 
+at openElement.Forms.FrmPageEdit.ClipboardPaste(Int32 pasteX, Int32 pasteY) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\FrmPageEdit.Clipboard.vb:line 256
+1/4/2021 1:23:59 PM | 
+at openElement.Forms.FrmPageEdit.WebBrowser_BrowserKeyDown(Object sender, BrowserKeyEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\FrmPageEdit.vb:line 850
+1/4/2021 1:23:59 PM | 
+at openElement.CtlBrowser._HandleKeyDown(BrowserKeyEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlBrowser.vb:line 446
+1/4/2021 1:23:59 PM | 
+
+1/4/2021 1:23:59 PM | 
+OETrace : 
+1/4/2021 1:23:59 PM | 
+at openElement.My.MyApplication.MyApplication_UnhandledException(Object sender, UnhandledExceptionEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\ApplicationEvents.vb:line 93
+1/4/2021 1:23:59 PM | 
+at openElement.My.MyApplication.Main(String[] Args) in :line 82
+1/4/2021 1:23:59 PM | 
+
+1/4/2021 1:23:59 PM | 
+------------------
+1/4/2021 1:24:01 PM | 
+1/4/2021 1:24:01 PM | 
+Message : Unable to cast object of type 'System.IO.MemoryStream' to type 'System.Collections.Generic.List`1[openElement.WebElement.Elements.ElementBase]'.
+1/4/2021 1:24:01 PM | 
+LastTrace : openElement.Forms.FrmPageEdit.ClipboardPaste(Int32 pasteX, Int32 pasteY)
+1/4/2021 1:24:01 PM | 
+Params : 
+1/4/2021 1:24:01 PM | 
+MethodeName : Void ClipboardPaste(Int32, Int32)
+1/4/2021 1:24:01 PM | 
+Stamp : 1/4/2021 1:24:01 PM
+1/4/2021 1:24:01 PM | 
+OSFullName : Microsoft Windows 10 Pro
+1/4/2021 1:24:01 PM | 
+AvailablePhysicalMemory : 26.43 Go 
+1/4/2021 1:24:01 PM | 
+TotalPhysicalMemory : 31.95 Go 
+1/4/2021 1:24:01 PM | 
+AvailableVirtualMemory : 2.99 Go 
+1/4/2021 1:24:01 PM | 
+TotalVirtualMemory : 4 Go 
+1/4/2021 1:24:01 PM | 
+WorkingSet : 378.71 Mo 
+1/4/2021 1:24:01 PM | 
+PagedMemorySize : 298.28 Mo 
+1/4/2021 1:24:01 PM | 
+TotalMemory : 58.19 Mo 
+1/4/2021 1:24:01 PM | 
+
+1/4/2021 1:24:01 PM | 
+ExTrace : 
+1/4/2021 1:24:01 PM | 
+at openElement.Forms.FrmPageEdit.ClipboardPaste(Int32 pasteX, Int32 pasteY) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\FrmPageEdit.Clipboard.vb:line 256
+1/4/2021 1:24:01 PM | 
+at openElement.Forms.FrmPageEdit.WebBrowser_BrowserKeyDown(Object sender, BrowserKeyEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\FrmPageEdit.vb:line 850
+1/4/2021 1:24:01 PM | 
+at openElement.CtlBrowser._HandleKeyDown(BrowserKeyEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlBrowser.vb:line 446
+1/4/2021 1:24:01 PM | 
+
+1/4/2021 1:24:01 PM | 
+OETrace : 
+1/4/2021 1:24:01 PM | 
+at openElement.My.MyApplication.MyApplication_UnhandledException(Object sender, UnhandledExceptionEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\ApplicationEvents.vb:line 98
+1/4/2021 1:24:01 PM | 
+at openElement.My.MyApplication.Main(String[] Args) in :line 82
+1/4/2021 1:24:01 PM | 
+
+1/4/2021 1:24:01 PM | 
+------------------
+1/4/2021 1:24:08 PM | 
+1/4/2021 1:24:08 PM | 
+Message : Unable to cast object of type 'System.IO.MemoryStream' to type 'System.Collections.Generic.List`1[openElement.WebElement.Elements.ElementBase]'.
+1/4/2021 1:24:08 PM | 
+LastTrace : openElement.Forms.FrmPageEdit.ClipboardPaste(Int32 pasteX, Int32 pasteY)
+1/4/2021 1:24:08 PM | 
+Params : 
+1/4/2021 1:24:08 PM | 
+MethodeName : Void ClipboardPaste(Int32, Int32)
+1/4/2021 1:24:08 PM | 
+Stamp : 1/4/2021 1:24:08 PM
+1/4/2021 1:24:08 PM | 
+OSFullName : Microsoft Windows 10 Pro
+1/4/2021 1:24:08 PM | 
+AvailablePhysicalMemory : 26.42 Go 
+1/4/2021 1:24:08 PM | 
+TotalPhysicalMemory : 31.95 Go 
+1/4/2021 1:24:08 PM | 
+AvailableVirtualMemory : 2.99 Go 
+1/4/2021 1:24:08 PM | 
+TotalVirtualMemory : 4 Go 
+1/4/2021 1:24:08 PM | 
+WorkingSet : 384.64 Mo 
+1/4/2021 1:24:08 PM | 
+PagedMemorySize : 304.85 Mo 
+1/4/2021 1:24:08 PM | 
+TotalMemory : 64.25 Mo 
+1/4/2021 1:24:08 PM | 
+
+1/4/2021 1:24:08 PM | 
+ExTrace : 
+1/4/2021 1:24:08 PM | 
+at openElement.Forms.FrmPageEdit.ClipboardPaste(Int32 pasteX, Int32 pasteY) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\FrmPageEdit.Clipboard.vb:line 256
+1/4/2021 1:24:08 PM | 
+at openElement.Forms.FrmPageEdit.WebBrowser_BrowserKeyDown(Object sender, BrowserKeyEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\FrmPageEdit.vb:line 850
+1/4/2021 1:24:08 PM | 
+at openElement.CtlBrowser._HandleKeyDown(BrowserKeyEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlBrowser.vb:line 446
+1/4/2021 1:24:08 PM | 
+
+1/4/2021 1:24:08 PM | 
+OETrace : 
+1/4/2021 1:24:08 PM | 
+at openElement.My.MyApplication.MyApplication_UnhandledException(Object sender, UnhandledExceptionEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\ApplicationEvents.vb:line 93
+1/4/2021 1:24:08 PM | 
+at openElement.My.MyApplication.Main(String[] Args) in :line 82
+1/4/2021 1:24:08 PM | 
+
+1/4/2021 1:24:08 PM | 
+------------------
+1/4/2021 1:24:12 PM | 
+1/4/2021 1:24:12 PM | 
+Message : Unable to cast object of type 'System.IO.MemoryStream' to type 'System.Collections.Generic.List`1[openElement.WebElement.Elements.ElementBase]'.
+1/4/2021 1:24:12 PM | 
+LastTrace : openElement.Forms.FrmPageEdit.ClipboardPaste(Int32 pasteX, Int32 pasteY)
+1/4/2021 1:24:12 PM | 
+Params : 
+1/4/2021 1:24:12 PM | 
+MethodeName : Void ClipboardPaste(Int32, Int32)
+1/4/2021 1:24:12 PM | 
+Stamp : 1/4/2021 1:24:12 PM
+1/4/2021 1:24:12 PM | 
+OSFullName : Microsoft Windows 10 Pro
+1/4/2021 1:24:12 PM | 
+AvailablePhysicalMemory : 26.42 Go 
+1/4/2021 1:24:12 PM | 
+TotalPhysicalMemory : 31.95 Go 
+1/4/2021 1:24:12 PM | 
+AvailableVirtualMemory : 2.99 Go 
+1/4/2021 1:24:12 PM | 
+TotalVirtualMemory : 4 Go 
+1/4/2021 1:24:12 PM | 
+WorkingSet : 385.76 Mo 
+1/4/2021 1:24:12 PM | 
+PagedMemorySize : 304.89 Mo 
+1/4/2021 1:24:12 PM | 
+TotalMemory : 65.12 Mo 
+1/4/2021 1:24:12 PM | 
+
+1/4/2021 1:24:12 PM | 
+ExTrace : 
+1/4/2021 1:24:12 PM | 
+at openElement.Forms.FrmPageEdit.ClipboardPaste(Int32 pasteX, Int32 pasteY) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\FrmPageEdit.Clipboard.vb:line 256
+1/4/2021 1:24:12 PM | 
+at openElement.Forms.FrmPageEdit.WebBrowser_BrowserKeyDown(Object sender, BrowserKeyEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\FrmPageEdit.vb:line 850
+1/4/2021 1:24:12 PM | 
+at openElement.CtlBrowser._HandleKeyDown(BrowserKeyEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlBrowser.vb:line 446
+1/4/2021 1:24:12 PM | 
+
+1/4/2021 1:24:12 PM | 
+OETrace : 
+1/4/2021 1:24:12 PM | 
+at openElement.My.MyApplication.MyApplication_UnhandledException(Object sender, UnhandledExceptionEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\ApplicationEvents.vb:line 98
+1/4/2021 1:24:12 PM | 
+at openElement.My.MyApplication.Main(String[] Args) in :line 82
+1/4/2021 1:24:12 PM | 
+
+1/4/2021 1:24:12 PM | 
+------------------
+1/4/2021 2:39:30 PM | 
+1/4/2021 2:39:30 PM | 
+Message : Unable to cast object of type 'System.IO.MemoryStream' to type 'System.Collections.Generic.List`1[openElement.WebElement.Elements.ElementBase]'.
+1/4/2021 2:39:30 PM | 
+LastTrace : openElement.Forms.FrmPageEdit.ClipboardPaste(Int32 pasteX, Int32 pasteY)
+1/4/2021 2:39:30 PM | 
+Params : 
+1/4/2021 2:39:30 PM | 
+MethodeName : Void ClipboardPaste(Int32, Int32)
+1/4/2021 2:39:30 PM | 
+Stamp : 1/4/2021 2:39:30 PM
+1/4/2021 2:39:30 PM | 
+OSFullName : Microsoft Windows 10 Pro
+1/4/2021 2:39:30 PM | 
+AvailablePhysicalMemory : 25.16 Go 
+1/4/2021 2:39:30 PM | 
+TotalPhysicalMemory : 31.95 Go 
+1/4/2021 2:39:30 PM | 
+AvailableVirtualMemory : 2.91 Go 
+1/4/2021 2:39:30 PM | 
+TotalVirtualMemory : 4 Go 
+1/4/2021 2:39:30 PM | 
+WorkingSet : 468.04 Mo 
+1/4/2021 2:39:30 PM | 
+PagedMemorySize : 386.99 Mo 
+1/4/2021 2:39:30 PM | 
+TotalMemory : 109.45 Mo 
+1/4/2021 2:39:30 PM | 
+
+1/4/2021 2:39:30 PM | 
+ExTrace : 
+1/4/2021 2:39:30 PM | 
+at openElement.Forms.FrmPageEdit.ClipboardPaste(Int32 pasteX, Int32 pasteY) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\FrmPageEdit.Clipboard.vb:line 256
+1/4/2021 2:39:30 PM | 
+at openElement.Forms.RibbonCore.RPSelection.RPGClipboard.BBIElementClipboardPaste_ItemClick(Object sender, ItemClickEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Main\RibbonItemCore\Selection\RPGClipboard.vb:line 62
+1/4/2021 2:39:30 PM | 
+
+1/4/2021 2:39:30 PM | 
+OETrace : 
+1/4/2021 2:39:30 PM | 
+at openElement.My.MyApplication.MyApplication_UnhandledException(Object sender, UnhandledExceptionEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\ApplicationEvents.vb:line 93
+1/4/2021 2:39:30 PM | 
+at openElement.My.MyApplication.Main(String[] Args) in :line 82
+1/4/2021 2:39:30 PM | 
+
+1/4/2021 2:39:30 PM | 
+------------------
+1/4/2021 2:39:36 PM | 
+1/4/2021 2:39:36 PM | 
+Message : Unable to cast object of type 'System.IO.MemoryStream' to type 'System.Collections.Generic.List`1[openElement.WebElement.Elements.ElementBase]'.
+1/4/2021 2:39:36 PM | 
+LastTrace : openElement.Forms.FrmPageEdit.ClipboardPaste(Int32 pasteX, Int32 pasteY)
+1/4/2021 2:39:36 PM | 
+Params : 
+1/4/2021 2:39:36 PM | 
+MethodeName : Void ClipboardPaste(Int32, Int32)
+1/4/2021 2:39:36 PM | 
+Stamp : 1/4/2021 2:39:36 PM
+1/4/2021 2:39:36 PM | 
+OSFullName : Microsoft Windows 10 Pro
+1/4/2021 2:39:36 PM | 
+AvailablePhysicalMemory : 25.16 Go 
+1/4/2021 2:39:36 PM | 
+TotalPhysicalMemory : 31.95 Go 
+1/4/2021 2:39:36 PM | 
+AvailableVirtualMemory : 2.91 Go 
+1/4/2021 2:39:36 PM | 
+TotalVirtualMemory : 4 Go 
+1/4/2021 2:39:36 PM | 
+WorkingSet : 468.25 Mo 
+1/4/2021 2:39:36 PM | 
+PagedMemorySize : 387.05 Mo 
+1/4/2021 2:39:36 PM | 
+TotalMemory : 108.67 Mo 
+1/4/2021 2:39:36 PM | 
+
+1/4/2021 2:39:36 PM | 
+ExTrace : 
+1/4/2021 2:39:36 PM | 
+at openElement.Forms.FrmPageEdit.ClipboardPaste(Int32 pasteX, Int32 pasteY) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\FrmPageEdit.Clipboard.vb:line 256
+1/4/2021 2:39:36 PM | 
+at openElement.Forms.RibbonCore.RPSelection.RPGClipboard.BBIElementClipboardPaste_ItemClick(Object sender, ItemClickEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Main\RibbonItemCore\Selection\RPGClipboard.vb:line 62
+1/4/2021 2:39:36 PM | 
+
+1/4/2021 2:39:36 PM | 
+OETrace : 
+1/4/2021 2:39:36 PM | 
+at openElement.My.MyApplication.MyApplication_UnhandledException(Object sender, UnhandledExceptionEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\ApplicationEvents.vb:line 98
+1/4/2021 2:39:36 PM | 
+at openElement.My.MyApplication.Main(String[] Args) in :line 82
+1/4/2021 2:39:36 PM | 
+
+1/4/2021 2:39:36 PM | 
+------------------
+1/4/2021 3:09:32 PM | 
+1/4/2021 3:09:32 PM | 
+Message : Unable to cast object of type 'System.IO.MemoryStream' to type 'System.Collections.Generic.List`1[openElement.WebElement.Elements.ElementBase]'.
+1/4/2021 3:09:32 PM | 
+LastTrace : openElement.Forms.FrmPageEdit.ClipboardPaste(Int32 pasteX, Int32 pasteY)
+1/4/2021 3:09:32 PM | 
+Params : 
+1/4/2021 3:09:32 PM | 
+MethodeName : Void ClipboardPaste(Int32, Int32)
+1/4/2021 3:09:32 PM | 
+Stamp : 1/4/2021 3:09:32 PM
+1/4/2021 3:09:32 PM | 
+OSFullName : Microsoft Windows 10 Pro
+1/4/2021 3:09:32 PM | 
+AvailablePhysicalMemory : 25.16 Go 
+1/4/2021 3:09:32 PM | 
+TotalPhysicalMemory : 31.95 Go 
+1/4/2021 3:09:32 PM | 
+AvailableVirtualMemory : 3.03 Go 
+1/4/2021 3:09:32 PM | 
+TotalVirtualMemory : 4 Go 
+1/4/2021 3:09:32 PM | 
+WorkingSet : 304.07 Mo 
+1/4/2021 3:09:32 PM | 
+PagedMemorySize : 231.25 Mo 
+1/4/2021 3:09:32 PM | 
+TotalMemory : 38.62 Mo 
+1/4/2021 3:09:32 PM | 
+
+1/4/2021 3:09:32 PM | 
+ExTrace : 
+1/4/2021 3:09:32 PM | 
+at openElement.Forms.FrmPageEdit.ClipboardPaste(Int32 pasteX, Int32 pasteY) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\FrmPageEdit.Clipboard.vb:line 256
+1/4/2021 3:09:32 PM | 
+at openElement.Forms.FrmPageEdit.WebBrowser_BrowserKeyDown(Object sender, BrowserKeyEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\FrmPageEdit.vb:line 850
+1/4/2021 3:09:32 PM | 
+at openElement.CtlBrowser._HandleKeyDown(BrowserKeyEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlBrowser.vb:line 446
+1/4/2021 3:09:32 PM | 
+
+1/4/2021 3:09:32 PM | 
+OETrace : 
+1/4/2021 3:09:32 PM | 
+at openElement.My.MyApplication.MyApplication_UnhandledException(Object sender, UnhandledExceptionEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\ApplicationEvents.vb:line 93
+1/4/2021 3:09:32 PM | 
+at openElement.My.MyApplication.Main(String[] Args) in :line 82
+1/4/2021 3:09:32 PM | 
+
+1/4/2021 3:09:32 PM | 
+------------------
+1/4/2021 3:09:34 PM | 
+1/4/2021 3:09:34 PM | 
+Message : Unable to cast object of type 'System.IO.MemoryStream' to type 'System.Collections.Generic.List`1[openElement.WebElement.Elements.ElementBase]'.
+1/4/2021 3:09:34 PM | 
+LastTrace : openElement.Forms.FrmPageEdit.ClipboardPaste(Int32 pasteX, Int32 pasteY)
+1/4/2021 3:09:34 PM | 
+Params : 
+1/4/2021 3:09:34 PM | 
+MethodeName : Void ClipboardPaste(Int32, Int32)
+1/4/2021 3:09:34 PM | 
+Stamp : 1/4/2021 3:09:34 PM
+1/4/2021 3:09:34 PM | 
+OSFullName : Microsoft Windows 10 Pro
+1/4/2021 3:09:34 PM | 
+AvailablePhysicalMemory : 25.15 Go 
+1/4/2021 3:09:34 PM | 
+TotalPhysicalMemory : 31.95 Go 
+1/4/2021 3:09:34 PM | 
+AvailableVirtualMemory : 3.03 Go 
+1/4/2021 3:09:34 PM | 
+TotalVirtualMemory : 4 Go 
+1/4/2021 3:09:34 PM | 
+WorkingSet : 305.86 Mo 
+1/4/2021 3:09:34 PM | 
+PagedMemorySize : 231.57 Mo 
+1/4/2021 3:09:34 PM | 
+TotalMemory : 38.95 Mo 
+1/4/2021 3:09:34 PM | 
+
+1/4/2021 3:09:34 PM | 
+ExTrace : 
+1/4/2021 3:09:34 PM | 
+at openElement.Forms.FrmPageEdit.ClipboardPaste(Int32 pasteX, Int32 pasteY) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\FrmPageEdit.Clipboard.vb:line 256
+1/4/2021 3:09:34 PM | 
+at openElement.Forms.FrmPageEdit.WebBrowser_BrowserKeyDown(Object sender, BrowserKeyEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Page\FrmPageEdit.vb:line 850
+1/4/2021 3:09:34 PM | 
+at openElement.CtlBrowser._HandleKeyDown(BrowserKeyEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlBrowser.vb:line 446
+1/4/2021 3:09:34 PM | 
+
+1/4/2021 3:09:34 PM | 
+OETrace : 
+1/4/2021 3:09:34 PM | 
+at openElement.My.MyApplication.MyApplication_UnhandledException(Object sender, UnhandledExceptionEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\ApplicationEvents.vb:line 98
+1/4/2021 3:09:34 PM | 
+at openElement.My.MyApplication.Main(String[] Args) in :line 82
+1/4/2021 3:09:34 PM | 
+
+1/4/2021 3:09:34 PM | 
+------------------

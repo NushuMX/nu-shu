@@ -1,0 +1,105 @@
+.oefs-loading {	
+	position:		relative;
+	min-height: 	64px;
+	padding-bottom: 64%;
+	background:		rgba(0, 0, 0, 0.5) center center no-repeat url(../ResImg/Loading-v21.gif);
+	background-size: 32px auto;
+}
+
+.oefs-loading > .sub {
+}
+
+.flexslider.oefs-hidden {
+	display: none;
+}
+.flexslider {
+	border: 	none;
+	background-color: transparent;
+	/*min-width:	64px;
+	min-height: 32px;*/
+}
+.flexslider.oefs-without-navpoints {
+	margin-bottom: 0;
+}
+
+.oefs-thumbs .slides > li {
+	cursor: 	pointer;
+}
+
+.oefs-slides .slides > li {
+	position: 	relative;
+}
+
+.flex-direction-nav a:before,
+.flex-direction-nav a.flex-prev:before {
+	line-height:	normal;
+}
+
+.oefs-remove-arrows .flex-direction-nav a:before,
+.oefs-remove-arrows .flex-direction-nav a.flex-prev:before {
+	content: '';
+}
+
+.flex-direction-nav a.oefs-moved-arrow {
+	width: 		auto;
+	height:		auto;
+	margin-top: 0;
+	-webkit-transform: translateY(-50%);
+		-ms-transform: translateY(-50%);
+			transform: translateY(-50%);
+}
+.flex-direction-nav a.oefs-moved-arrow:before {
+	display: 	none;
+}
+
+.oefs-moved-arrow > .BaseDiv {
+	left: 		0 !important;
+	top: 		0 !important;
+	right: 		0 !important;
+	bottom: 	0 !important;
+	position: 	relative !important;
+}
+
+
+.flex-caption.oefs-text {
+	display: 	block;
+}
+.flex-caption.oefs-text > .sub {
+	padding: 	8px;
+	-webkit-transition: opacity 0.5s ease;
+			transition: opacity 0.5s ease;
+}
+
+.oefs-text-position-0 .flex-caption.oefs-text,
+.oefs-text-position-1 .flex-caption.oefs-text { /* bottom or top of the image */
+	position: 	absolute;
+	top: auto; bottom: 0; width: auto; height: auto;
+	
+	left:-20px; right: -20px; /* try to fix Chrome bug with horiz transform animation */
+	padding-left: 20px; padding-right: 20px;
+	
+	z-index: 	1;
+}
+.oefs-text-position-1 .flex-caption.oefs-text { /* top of the image */
+	 top: 0; bottom: auto;
+}
+.oefs-text-position-2 .flex-caption.oefs-text { /* under the image */
+	position: 	relative;
+}
+
+.oefs-text-position-0 .flex-caption.oefs-text > .sub,
+.oefs-text-position-1 .flex-caption.oefs-text > .sub { /* bottom or top of the image */
+	background-color: rgba(0, 0, 0, 0.75);
+	color:		 white;
+}
+
+
+.slides > li > a {
+	position: 	absolute;
+	left: 0; top: 0; right: 0; bottom: 0;
+	z-index:	2;
+}
+
+.flex-prev, .flex-next {
+	cursor:		pointer; /* for custom externalprev/next buttons */
+}
