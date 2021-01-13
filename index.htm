@@ -59,6 +59,32 @@
  </head>
  <body class="RWAuto" data-gl="{&quot;KeywordsHomeNotInherits&quot;:false}">
   <form id="XForm" method="post" action="#"></form>
+  <!-- Load Facebook SDK for JavaScript -->
+  <div id="fb-root"></div>
+   <script>
+          window.fbAsyncInit = function() {
+            FB.init({
+              xfbml            : true,
+              version          : 'v9.0'
+            });
+          };
+  
+          (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = 'https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js';
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+  </script>
+        <!-- Your Chat Plugin code -->
+  <div class="fb-customerchat"
+    attribution=setup_tool
+    page_id="101691558504476"
+    theme_color="#a695c7"
+    logged_in_greeting="Bienvenido al sitio oficial de Nüshu. ¿Cómo podemos ayudarte?"
+    logged_out_greeting="Bienvenido al sitio oficial de Nüshu. ¿Cómo podemos ayudarte?">
+  </div>
   <div id="XBody" class="BaseDiv RBoth OEPageXbody OESK_XBody_Default" style="z-index:2000">
    <div class="OESZ OESZ_DivContent OESZG_XBody">
     <div class="OESZ OESZ_XBodyContent OESZG_XBody OECT OECT_Content OECTAbs">
@@ -246,7 +272,7 @@
            <div class="OERelLine OEHAlignC OEVAlignB">
             <div id="WE708f6ad292" class="BaseDiv RWidth OEWEText OESK_WEText_Default OECenterRH" style="z-index:2011">
              <div class="OESZ OESZ_DivContent OESZG_WE708f6ad292">
-              <span class="ContentBox">¿QUIENES SOMOS?<br /></span>
+              <span class="ContentBox">¿QUIÉNES SOMOS?<br /></span>
              </div>
             </div>
            </div>
@@ -267,14 +293,14 @@
            <div class="OERelLine OEHAlignC OEVAlignB">
             <div id="WE8acfe43e55" class="BaseDiv RWidth OEWEText OESK_WEText_Default OECenterRH" style="z-index:2004">
              <div class="OESZ OESZ_DivContent OESZG_WE8acfe43e55">
-              <span class="ContentBox">Surgimos de la intenciòn de redefinir la comesmética, rompiendo los estigmas de género en el cuidado personal. Somos una marca consciente de la evolución que los estándares de belleza han desarrollado en tiempo de inclusión, empatía y liberación.<br />Por ello, nos enfocamos en el desarrollo de productos cosméticos y aromaterapéuticos únicos y efectivos. Elaborados mediante la fusión de la herbolaria ancestral y la tecnología de punta, para atender y cuidar cualquier necesidad cutánea.<br /></span>
+              <span class="ContentBox">Surgimos de la intención de redefinir la cosmética, rompiendo los estigmas de género en el cuidado personal. Somos una marca consciente de la evolución que los estándares de belleza han desarrollado en tiempo de inclusión, empatía y liberación.<br />Por ello, nos enfocamos en el desarrollo de productos cosméticos y aromaterapéuticos únicos y efectivos. Elaborados mediante la fusión de la herbolaria ancestral y la tecnología de punta, para atender y cuidar cualquier necesidad cutánea.<br /></span>
              </div>
             </div>
            </div>
            <div class="OERelLine OEHAlignC OEVAlignB">
             <div id="WEbdfd56268d" class="BaseDiv RWidth OEWEText OESK_WEText_Default OECenterRH" style="z-index:2011">
              <div class="OESZ OESZ_DivContent OESZG_WEbdfd56268d">
-              <span class="ContentBox">¿QUE BUSCAMOS?<br /></span>
+              <span class="ContentBox">¿QUÉ BUSCAMOS?<br /></span>
              </div>
             </div>
            </div>
@@ -295,7 +321,7 @@
            <div class="OERelLine OEHAlignC OEVAlignB">
             <div id="WE8b034e8f8f" class="BaseDiv RWidth OEWEText OESK_WEText_Default OECenterRH" style="z-index:2007">
              <div class="OESZ OESZ_DivContent OESZG_WE8b034e8f8f">
-              <span class="ContentBox">Así honrando su habilidad para enriquecer nuestra salúd y bienestar. En virtud de ello, elaboramos productos a base de extractos naturales y aceites esenciales, los cuales gracias a sus propiedades, son compatibles con todo tipo de piel; brindándote productos naturales de alta calidad, para cuidarte y consentirte todos los días en cada etapa de tu vida.<br /></span>
+              <span class="ContentBox">Así honrando su habilidad para enriquecer nuestra salud y bienestar. En virtud de ello, elaboramos productos a base de extractos naturales y aceites esenciales, los cuales gracias a sus propiedades, son compatibles con todo tipo de piel; brindándote productos naturales de alta calidad, para cuidarte y consentirte todos los días en cada etapa de tu vida.<br /></span>
              </div>
             </div>
            </div>
@@ -482,7 +508,7 @@
                </div>
                <div id="WEafd3492bb7" class="BaseDiv RNone OEWELabel OESK_WELabel_Default OECenterAH" style="z-index:2006">
                 <div class="OESZ OESZ_DivContent OESZG_WEafd3492bb7">
-                 <span class="OESZ OESZ_Text OESZG_WEafd3492bb7 ContentBox">Correo Electronico</span>
+                 <span class="OESZ OESZ_Text OESZG_WEafd3492bb7 ContentBox">Correo Electrónico</span>
                 </div>
                </div>
                <div id="WEc1dffbc589" class="BaseDiv RNone OEWETextBoxV2 OESK_WETextBox2_Default OECenterAH inputBoxSizing" style="z-index:2010">
