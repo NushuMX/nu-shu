@@ -431,3 +431,191 @@ en openElement.CtlBrowser._Lambda$__R98-2(Object a0)
 
 06/01/2021 05:33:08 p. m. | 
 ------------------
+1/30/2021 7:41:23 PM | 
+1/30/2021 7:41:23 PM | 
+Message : Conversion from string "" to type 'Double' is not valid.
+1/30/2021 7:41:23 PM | 
+LastTrace : openElement.Forms.RibbonCore.RPSelection.RPGSize.UpdatePMElemSizeCheck(CssUnit cssUnit)
+1/30/2021 7:41:23 PM | 
+Params : 
+1/30/2021 7:41:23 PM | 
+MethodeName : Double ToDouble(System.String, System.Globalization.NumberFormatInfo)
+1/30/2021 7:41:23 PM | 
+Stamp : 1/30/2021 7:41:23 PM
+1/30/2021 7:41:23 PM | 
+OSFullName : Microsoft Windows 7 Ultimate 
+1/30/2021 7:41:23 PM | 
+AvailablePhysicalMemory : 5.92 Go 
+1/30/2021 7:41:23 PM | 
+TotalPhysicalMemory : 8 Go 
+1/30/2021 7:41:23 PM | 
+AvailableVirtualMemory : 2.83 Go 
+1/30/2021 7:41:23 PM | 
+TotalVirtualMemory : 4 Go 
+1/30/2021 7:41:23 PM | 
+WorkingSet : 527.53 Mo 
+1/30/2021 7:41:23 PM | 
+PagedMemorySize : 477.42 Mo 
+1/30/2021 7:41:23 PM | 
+TotalMemory : 90.5 Mo 
+1/30/2021 7:41:23 PM | 
+
+1/30/2021 7:41:23 PM | 
+ExTrace : 
+1/30/2021 7:41:23 PM | 
+at openElement.Forms.RibbonCore.RPSelection.RPGSize.UpdatePMElemSizeCheck(CssUnit cssUnit) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Main\RibbonItemCore\Selection\RPGSize.vb:line 75
+1/30/2021 7:41:23 PM | 
+at openElement.Forms.RibbonCore.RPSelection.RPGSize.PMElemSize_BeforePopup(Object sender, CancelEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Main\RibbonItemCore\Selection\RPGSize.vb:line 59
+1/30/2021 7:41:23 PM | 
+
+1/30/2021 7:41:23 PM | 
+OETrace : 
+1/30/2021 7:41:23 PM | 
+at openElement.My.MyApplication.MyApplication_UnhandledException(Object sender, UnhandledExceptionEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\ApplicationEvents.vb:line 93
+1/30/2021 7:41:23 PM | 
+at openElement.My.MyApplication.Main(String[] Args) in :line 82
+1/30/2021 7:41:23 PM | 
+
+1/30/2021 7:41:23 PM | 
+------------------
+1/30/2021 7:41:25 PM | 
+1/30/2021 7:41:25 PM | 
+Message : Conversion from string "" to type 'Double' is not valid.
+1/30/2021 7:41:25 PM | 
+LastTrace : openElement.Forms.RibbonCore.RPSelection.RPGSize.UpdatePMElemSizeCheck(CssUnit cssUnit)
+1/30/2021 7:41:25 PM | 
+Params : 
+1/30/2021 7:41:25 PM | 
+MethodeName : Double ToDouble(System.String, System.Globalization.NumberFormatInfo)
+1/30/2021 7:41:25 PM | 
+Stamp : 1/30/2021 7:41:25 PM
+1/30/2021 7:41:25 PM | 
+OSFullName : Microsoft Windows 7 Ultimate 
+1/30/2021 7:41:25 PM | 
+AvailablePhysicalMemory : 5.92 Go 
+1/30/2021 7:41:25 PM | 
+TotalPhysicalMemory : 8 Go 
+1/30/2021 7:41:25 PM | 
+AvailableVirtualMemory : 2.82 Go 
+1/30/2021 7:41:25 PM | 
+TotalVirtualMemory : 4 Go 
+1/30/2021 7:41:25 PM | 
+WorkingSet : 529.1 Mo 
+1/30/2021 7:41:25 PM | 
+PagedMemorySize : 477.51 Mo 
+1/30/2021 7:41:25 PM | 
+TotalMemory : 90.3 Mo 
+1/30/2021 7:41:25 PM | 
+
+1/30/2021 7:41:25 PM | 
+ExTrace : 
+1/30/2021 7:41:25 PM | 
+at openElement.Forms.RibbonCore.RPSelection.RPGSize.UpdatePMElemSizeCheck(CssUnit cssUnit) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Main\RibbonItemCore\Selection\RPGSize.vb:line 75
+1/30/2021 7:41:25 PM | 
+at openElement.Forms.RibbonCore.RPSelection.RPGSize.PMElemSize_BeforePopup(Object sender, CancelEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Main\RibbonItemCore\Selection\RPGSize.vb:line 59
+1/30/2021 7:41:25 PM | 
+
+1/30/2021 7:41:25 PM | 
+OETrace : 
+1/30/2021 7:41:25 PM | 
+at openElement.My.MyApplication.MyApplication_UnhandledException(Object sender, UnhandledExceptionEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\ApplicationEvents.vb:line 98
+1/30/2021 7:41:25 PM | 
+at openElement.My.MyApplication.Main(String[] Args) in :line 82
+1/30/2021 7:41:25 PM | 
+
+1/30/2021 7:41:25 PM | 
+------------------
+1/30/2021 7:41:26 PM | 
+1/30/2021 7:41:26 PM | 
+Message : Conversion from string "" to type 'Double' is not valid.
+1/30/2021 7:41:26 PM | 
+LastTrace : openElement.Forms.RibbonCore.RPSelection.RPGSize.UpdatePMElemSizeCheck(CssUnit cssUnit)
+1/30/2021 7:41:26 PM | 
+Params : 
+1/30/2021 7:41:26 PM | 
+MethodeName : Double ToDouble(System.String, System.Globalization.NumberFormatInfo)
+1/30/2021 7:41:26 PM | 
+Stamp : 1/30/2021 7:41:26 PM
+1/30/2021 7:41:26 PM | 
+OSFullName : Microsoft Windows 7 Ultimate 
+1/30/2021 7:41:26 PM | 
+AvailablePhysicalMemory : 5.92 Go 
+1/30/2021 7:41:26 PM | 
+TotalPhysicalMemory : 8 Go 
+1/30/2021 7:41:26 PM | 
+AvailableVirtualMemory : 2.82 Go 
+1/30/2021 7:41:26 PM | 
+TotalVirtualMemory : 4 Go 
+1/30/2021 7:41:26 PM | 
+WorkingSet : 528.04 Mo 
+1/30/2021 7:41:26 PM | 
+PagedMemorySize : 477.56 Mo 
+1/30/2021 7:41:26 PM | 
+TotalMemory : 91.79 Mo 
+1/30/2021 7:41:26 PM | 
+
+1/30/2021 7:41:26 PM | 
+ExTrace : 
+1/30/2021 7:41:26 PM | 
+at openElement.Forms.RibbonCore.RPSelection.RPGSize.UpdatePMElemSizeCheck(CssUnit cssUnit) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Main\RibbonItemCore\Selection\RPGSize.vb:line 75
+1/30/2021 7:41:26 PM | 
+at openElement.Forms.RibbonCore.RPSelection.RPGSize.PMElemSize_BeforePopup(Object sender, CancelEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Main\RibbonItemCore\Selection\RPGSize.vb:line 59
+1/30/2021 7:41:26 PM | 
+
+1/30/2021 7:41:26 PM | 
+OETrace : 
+1/30/2021 7:41:26 PM | 
+at openElement.My.MyApplication.MyApplication_UnhandledException(Object sender, UnhandledExceptionEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\ApplicationEvents.vb:line 93
+1/30/2021 7:41:26 PM | 
+at openElement.My.MyApplication.Main(String[] Args) in :line 82
+1/30/2021 7:41:26 PM | 
+
+1/30/2021 7:41:26 PM | 
+------------------
+1/30/2021 7:41:28 PM | 
+1/30/2021 7:41:28 PM | 
+Message : Conversion from string "" to type 'Double' is not valid.
+1/30/2021 7:41:28 PM | 
+LastTrace : openElement.Forms.RibbonCore.RPSelection.RPGSize.UpdatePMElemSizeCheck(CssUnit cssUnit)
+1/30/2021 7:41:28 PM | 
+Params : 
+1/30/2021 7:41:28 PM | 
+MethodeName : Double ToDouble(System.String, System.Globalization.NumberFormatInfo)
+1/30/2021 7:41:28 PM | 
+Stamp : 1/30/2021 7:41:28 PM
+1/30/2021 7:41:28 PM | 
+OSFullName : Microsoft Windows 7 Ultimate 
+1/30/2021 7:41:28 PM | 
+AvailablePhysicalMemory : 5.92 Go 
+1/30/2021 7:41:28 PM | 
+TotalPhysicalMemory : 8 Go 
+1/30/2021 7:41:28 PM | 
+AvailableVirtualMemory : 2.82 Go 
+1/30/2021 7:41:28 PM | 
+TotalVirtualMemory : 4 Go 
+1/30/2021 7:41:28 PM | 
+WorkingSet : 528.09 Mo 
+1/30/2021 7:41:28 PM | 
+PagedMemorySize : 477.59 Mo 
+1/30/2021 7:41:28 PM | 
+TotalMemory : 89.6 Mo 
+1/30/2021 7:41:28 PM | 
+
+1/30/2021 7:41:28 PM | 
+ExTrace : 
+1/30/2021 7:41:28 PM | 
+at openElement.Forms.RibbonCore.RPSelection.RPGSize.UpdatePMElemSizeCheck(CssUnit cssUnit) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Main\RibbonItemCore\Selection\RPGSize.vb:line 75
+1/30/2021 7:41:28 PM | 
+at openElement.Forms.RibbonCore.RPSelection.RPGSize.PMElemSize_BeforePopup(Object sender, CancelEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Main\RibbonItemCore\Selection\RPGSize.vb:line 59
+1/30/2021 7:41:28 PM | 
+
+1/30/2021 7:41:28 PM | 
+OETrace : 
+1/30/2021 7:41:28 PM | 
+at openElement.My.MyApplication.MyApplication_UnhandledException(Object sender, UnhandledExceptionEventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\ApplicationEvents.vb:line 98
+1/30/2021 7:41:28 PM | 
+at openElement.My.MyApplication.Main(String[] Args) in :line 82
+1/30/2021 7:41:28 PM | 
+
+1/30/2021 7:41:28 PM | 
+------------------
