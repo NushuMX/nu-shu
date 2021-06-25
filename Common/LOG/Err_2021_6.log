@@ -1,0 +1,59 @@
+6/24/2021 2:53:13 PM | 
+6/24/2021 2:53:13 PM | 
+Message : Could not find a part of the path 'Mac/Home/Desktop/Manosanta Website/Manosanta Backup/Initial/Manosanta_Post/.htaccess'.
+6/24/2021 2:53:13 PM | 
+LastTrace : openElement.OEIO.FileInfo.CopyTo(Boolean overWrite, String destPath, Boolean showError, Boolean logError)
+6/24/2021 2:53:13 PM | 
+Params : 
+6/24/2021 2:53:13 PM | 
+MethodeName : Void WinIOError(Int32, System.String)
+6/24/2021 2:53:13 PM | 
+Stamp : 6/24/2021 2:53:13 PM
+6/24/2021 2:53:13 PM | 
+OSFullName : Microsoft Windows 7 Ultimate 
+6/24/2021 2:53:13 PM | 
+AvailablePhysicalMemory : 5.36 Go 
+6/24/2021 2:53:13 PM | 
+TotalPhysicalMemory : 8 Go 
+6/24/2021 2:53:13 PM | 
+AvailableVirtualMemory : 2.73 Go 
+6/24/2021 2:53:13 PM | 
+TotalVirtualMemory : 4 Go 
+6/24/2021 2:53:13 PM | 
+WorkingSet : 538.12 Mo 
+6/24/2021 2:53:13 PM | 
+PagedMemorySize : 497.3 Mo 
+6/24/2021 2:53:13 PM | 
+TotalMemory : 108.21 Mo 
+6/24/2021 2:53:13 PM | 
+
+6/24/2021 2:53:13 PM | 
+ExTrace : 
+6/24/2021 2:53:13 PM | 
+at openElement.OEIO.FileInfo.CopyTo(Boolean overWrite, String destPath, Boolean showError, Boolean logError) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\Common\OEIO.vb:line 468
+6/24/2021 2:53:13 PM | 
+
+6/24/2021 2:53:13 PM | 
+OETrace : 
+6/24/2021 2:53:13 PM | 
+at openElement.OEIO.FileInfo.CopyTo(Boolean overWrite, String destPath, Boolean showError, Boolean logError) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\Common\OEIO.vb:line 474
+6/24/2021 2:53:13 PM | 
+at openElement.WebSite.Connection.LocalConnection.CopyFile(FileInfo fileSource, String destinationPath, Boolean showError, Boolean noFrmWait) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\WebSite\Connexion\LocalConnection.vb:line 155
+6/24/2021 2:53:13 PM | 
+at openElement.WebSite.Connection.LocalConnection.CopyDirectory(DirectoryInfo source, DirectoryInfo destination, Boolean showError, Boolean noFrmWait) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\WebSite\Connexion\LocalConnection.vb:line 129
+6/24/2021 2:53:13 PM | 
+at openElement.WebSite.WebSite.Create(ActionArg`5 actionArg) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\WebSite\WebSite.Create.vb:line 46
+6/24/2021 2:53:13 PM | 
+at openElement.WebSite.WebSite._Closure$__._Lambda$__R4-2(ActionArg a0)
+6/24/2021 2:53:13 PM | 
+at openElement.Wait.RunFunction[TResult](FuncWait`1 action, ActionArg param, String text1, String text2, WaitIconType iconType) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\Common\Wait.vb:line 199
+6/24/2021 2:53:13 PM | 
+at openElement.WebSite.WebSite.Create(String rootDestPath, String name, Language defLang, List`1 otherLang, ModelDetails model) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\WebSite\WebSite.Create.vb:line 19
+6/24/2021 2:53:13 PM | 
+at openElement.Forms.FrmNewProject.ButtonCreate_Click(Object sender, EventArgs e) in C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Project\FrmNewProject.vb:line 291
+6/24/2021 2:53:13 PM | 
+at openElement.My.MyApplication.Main(String[] Args) in :line 82
+6/24/2021 2:53:13 PM | 
+
+6/24/2021 2:53:13 PM | 
+------------------
